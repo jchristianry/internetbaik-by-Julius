@@ -1,5 +1,0 @@
-kominfo.go.id
-elearning.bsi.ac.id
-students.bsi.ac.id
-detik.com
-kompas.com
